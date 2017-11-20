@@ -24,12 +24,12 @@ section {
   background-color: #fff;
 }
 
-.card-user {
+.card {
   width: 40%;
   padding: 30px 40px;
 }
 
-.card-user p {
+.card p {
   margin: 20px 0;
 }
 
@@ -37,7 +37,7 @@ section {
   width: 58%;
 }
 
-.card-user, .content {
+.card, .content {
   display: inline-block;
   vertical-align: top;
 }
